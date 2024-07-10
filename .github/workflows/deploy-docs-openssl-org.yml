@@ -6,7 +6,7 @@ on:
       - "OpenSSL_1_0_2-stable"
       - "OpenSSL_1_1_1-stable"
       - "openssl-3.0"
-      - "openssl-3.*"
+      - "openssl-3.[0-9]+"
       - "master"
     paths:
       - "doc/**/*.pod"
