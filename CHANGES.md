@@ -27,7 +27,7 @@ OpenSSL Releases
 OpenSSL 3.4
 -----------
 
-### Changes between 3.4.0 and 3.4.1 [xx XXX xxxx]
+### Changes between 3.4.0 and 3.4.1 [15 Jan 2025]
 
  * Reverted the behavior change of CMS_get1_certs() and CMS_get1_crls()
    that happened in the 3.4.0 release. These functions now return NULL
